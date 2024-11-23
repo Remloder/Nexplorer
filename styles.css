@@ -1,0 +1,21 @@
+.carousel-custom-size {
+    width: 1000px; 
+    height: 500px;
+    margin: 0 auto;
+}
+  
+
+.carousel-custom-size .carousel-item img {
+    height: 500px;
+    object-fit: cover;
+}
+
+
+nav {
+    background: linear-gradient(#ff0000, #f00505, #e60505) !important;
+}
+
+
+footer {
+    background: linear-gradient(#ff0000, #f00505, #e60505) !important;
+}
